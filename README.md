@@ -37,7 +37,7 @@ bitcoind must be running and must have finished downloading the blockchain **bef
 
   To install Insight API, clone the main repository:
 
-    $ git clone https://github.com/bitpay/insight-api && cd insight-api
+    $ git clone https://github.com/01Fedda/shmn-insight-api && cd shmn-insight-api
 
   Install dependencies:
 
